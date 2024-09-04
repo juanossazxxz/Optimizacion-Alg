@@ -45,7 +45,7 @@ x_inicial = np.array([10.0])
 minimo = metodo_de_newton(f, grad_f, hess_f, x_inicial)
 print(f"El mínimo encontrado está en: {minimo}")
 ```
-## Progrmacion lineal
+## Programación Lineal
 
 ### Descripción
 La Programación Lineal es un método para maximizar o minimizar una función lineal sujeta a restricciones lineales. Es ampliamente utilizada en optimización de recursos y problemas de planificación.
