@@ -1,4 +1,4 @@
-# Optimizacion-alg
+# Optimizacion-Alg
 Documentación  algoritmos de optimización
 Este repositorio contiene implementaciones y documentación de varios algoritmos de optimización, incluyendo el Método de Newton, Programación Lineal, el Método QMP (Quadratic Mean Penalty), y el Algoritmo Heurístico de Firefly.
 
